@@ -172,7 +172,7 @@ public class MorsePlayer {
                     break;
             }
         }
-        audioTrack.stop();
+        //audioTrack.stop();
     }
 
     public void stop() {
